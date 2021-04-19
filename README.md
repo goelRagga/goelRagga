@@ -5,7 +5,7 @@
  💻 Learning++ Everyday!
  <br/>
  👨‍💻Passionate towards Coding....
-<img align="right" src="https://i.ibb.co/K2LTCqz/63-635850-missis-programmer-profile-clipart-removebg-preview.png" width="400px" height="400px" />
+<img align="right" src="https://i.ibb.co/K2LTCqz/63-635850-missis-programmer-profile-clipart-removebg-preview.png" width="300px" height="300px" />
 <br/>
 <br/>
 
