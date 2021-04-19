@@ -30,6 +30,8 @@
 <img align= "left" src="https://camo.githubusercontent.com/0c889b0167635d05531c355ef22c0ac5d28169dbf180e4a76797f76ea7920380/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d6f6666696369616c2e737667" width=50px height=50px/> 
 <img align= "left" src="https://camo.githubusercontent.com/3e9f1d82233cb9a42ed30a63d093f2b4502d879301f8cce220de7f0d3b84f5bf/687474703a2f2f33636f6e31342e62697a2f636f64652f5f646174612f6a732f696e74726f2f6a732d6c6f676f2e706e67" width=50px height=50px/> 
 <img align= "left" src="https://camo.githubusercontent.com/4dec2e708980ea770ab6068f903fc5971f12acc21c77307b6db3a47d92c5e1a8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e706d6a732f6e706d6a732d617232312e737667" width=50px height=50px/> 
+<img align= "left" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=50px height=50px/> 
+
 <br/>
 <br/>
 
