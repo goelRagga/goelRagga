@@ -2,6 +2,9 @@
 
 - 🌱 I’m currently learning : Full stack web Development with React JS
 
+ 💻 Learning++ Everyday!
+ 👨‍💻Passionate towards Coding....
+<img align="right" src="https://www.pinclipart.com/picdir/middle/52-521160_23-dec-programmer-profile-clipart.png" width="40" height="40" />
 <br/>
 <br/>
 
