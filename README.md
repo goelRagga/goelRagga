@@ -1,11 +1,11 @@
 ### Hi there 👋, Raghav Goel this side!
-
+<img align="right" src="https://i.ibb.co/K2LTCqz/63-635850-missis-programmer-profile-clipart-removebg-preview.png" width="300px" height="300px" />
 - 🌱 I’m currently learning : Full stack web Development with React JS
 
  💻 Learning++ Everyday!
  <br/>
  👨‍💻Passionate towards Coding....
-<img align="right" src="https://i.ibb.co/K2LTCqz/63-635850-missis-programmer-profile-clipart-removebg-preview.png" width="200px" height="200px" />
+
 <br/>
 <br/>
 
