@@ -7,9 +7,7 @@
  👨‍💻Passionate towards Coding....
 
 <br/>
-<br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=goelRagga&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
@@ -40,6 +38,6 @@
 <br/>
 <br/>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=goelRagga&theme=radical)]
 ## My Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goelRagga&theme=radical)
