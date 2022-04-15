@@ -6,6 +6,10 @@
  <br/>
  👨‍💻Passionate towards Coding....
 
+<br/>
+<br/>
+
+<a href="https://github-profile-trophy.vercel.app/?username=goelRagga&theme=radical"></a>
 
 <br/>
 
