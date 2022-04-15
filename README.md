@@ -41,4 +41,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goelRagga&theme=radical)
 
 ## Git Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=goelRagga&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=goelRagga&theme=radical)
