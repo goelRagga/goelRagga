@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-<a href="https://github-profile-trophy.vercel.app/?username=goelRagga&theme=radical"></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=goelRagga&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
