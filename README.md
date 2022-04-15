@@ -9,8 +9,6 @@
 <br/>
 
 
-<br/>
-
 ## Connect with me
 <a href="https://www.facebook.com/raghav.goel.9212/"><img align= "left" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" width=50px height=50px/> </a>
 <a href="https://github.com/goelRagga"><img  align= "left" src="https://camo.githubusercontent.com/4133dc1cd4511d4a292b84ce10e52e4ed92569fb2a8165381c9c47be5edc2796/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f706e672f6769746875622e706e67" width=50px height=50px/> </a>
@@ -42,5 +40,5 @@
 ## My Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goelRagga&theme=radical)
 
-<br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=goelRagga&theme=radical)]
+## Git Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=goelRagga&theme=radical)
