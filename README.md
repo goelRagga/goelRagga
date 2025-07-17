@@ -105,18 +105,6 @@ public:
 
 </div>
 
-## 📊 GitHub Journey
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=goelRagga&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=goelRagga&theme=radical&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goelRagga&layout=compact&theme=radical&hide_border=true" />
-</div>
 
 ## 🏆 Achievement Showcase
 
