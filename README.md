@@ -1,44 +1,175 @@
-### Hi there 👋, Raghav Goel this side!
-<img align="right" src="https://i.ibb.co/K2LTCqz/63-635850-missis-programmer-profile-clipart-removebg-preview.png" width="300px" height="300px" />
-- 🌱 Front End Developer
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=RAGHAV%20GOEL&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Front%20End%20Developer%20%7C%20Code%20Enthusiast&descAlignY=51&descAlign=50" />
+</div>
 
- 💻 Learning++ Everyday!
- <br/>
- 👨‍💻Passionate towards Coding....
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;I'm+Raghav+Goel!;Front+End+Developer;Learning%2B%2B+Everyday!" />
+</h1>
+
+<div align="center">
+  <img src="https://i.ibb.co/K2LTCqz/63-635850-missis-programmer-profile-clipart-removebg-preview.png" width="200" height="200" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💻-Frontend_Developer-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯-Passionate_Coder-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📚-Always_Learning-blue?style=for-the-badge" />
+</div>
 
 <br/>
 
+## 🔥 About Me
 
-## Connect with me
-<a href="https://www.facebook.com/raghav.goel.9212/"><img align= "left" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" width=50px height=50px/> </a>
-<a href="https://github.com/goelRagga"><img  align= "left" src="https://camo.githubusercontent.com/4133dc1cd4511d4a292b84ce10e52e4ed92569fb2a8165381c9c47be5edc2796/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f706e672f6769746875622e706e67" width=50px height=50px/> </a>
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://www.instagram.com/raghavgoel_y.t.s/?hl=en"><img align= "left" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width=50px height=50px/> </a>
-<a href="https://www.linkedin.com/in/raghav-goel-b0494b177/"><img align= "left" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width=50px height=50px/> </a>
-<a href="https://mail.google.com/mail/u/0/#inbox"><img align= "left" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width=50px height=50px/> </a>
+```cpp
+#include <iostream>
+#include <vector>
+#include <string>
+
+class Developer {
+private:
+    std::string name = "Raghav Goel";
+    std::string role = "Frontend Developer";
+    std::vector<std::string> languages = {
+        "JavaScript", "Python", "C++"
+    };
+    
+public:
+    void displayInfo() {
+        std::cout << "👨‍💻 " << name << std::endl;
+        std::cout << "🚀 " << role << std::endl;
+        std::cout << "📍 India" << std::endl;
+        std::cout << "💡 Learning++ Everyday!" << std::endl;
+    }
+};
+```
+
+</td>
+<td width="50%">
+
+### 🎯 Quick Facts
+- 🔭 Currently working on **React Projects**
+- 🌱 Learning **Advanced JavaScript & React**
+- 👯 Looking to collaborate on **Frontend Projects**
+- 💬 Ask me about **React, JavaScript, Frontend Development**
+- ⚡ Fun fact: **I debug with console.log() 😄**
+
+</td>
+</tr>
+</table>
+
+## 🛠️ My Arsenal
+
+<div align="center">
+
+### Programming Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### Tools & Utilities
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 📊 GitHub Journey
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=goelRagga&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=goelRagga&theme=radical&hide_border=true" />
+</div>
+
 <br/>
-<br/>
 
-## Languages and Tools
-<img align= "left" src="https://camo.githubusercontent.com/1141fa873ae7371cd6b723fef0cd57ca14923123983844571416854b7f5e8fb6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667" width=50px height=50px/> 
-<img align= "left" src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" width=50px height=50px/> 
-<img align= "left" src="https://camo.githubusercontent.com/faf0782d01ec9e993c2e258fa995f0fc9171a14969d2129bbf5a5816df7e7b62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667" width=50px height=50px/> 
+<div align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goelRagga&layout=compact&theme=radical&hide_border=true" />
+</div>
 
-<img align= "left" src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/redux.svg" width=50px height=50px/> 
-<img align= "left" src="https://camo.githubusercontent.com/1b938a8770774c11ebdf27c1c371d173a48c6f0504cc224a8a6b47d5a8a332ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d69636f6e2e737667" width=50px height=50px/> 
-<img align= "left" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" width=50px height=50px/> 
-<img align= "left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=50px height=50px/> 
-<img align= "left" src="https://camo.githubusercontent.com/0c889b0167635d05531c355ef22c0ac5d28169dbf180e4a76797f76ea7920380/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d6f6666696369616c2e737667" width=50px height=50px/> 
-<img align= "left" src="https://camo.githubusercontent.com/3e9f1d82233cb9a42ed30a63d093f2b4502d879301f8cce220de7f0d3b84f5bf/687474703a2f2f33636f6e31342e62697a2f636f64652f5f646174612f6a732f696e74726f2f6a732d6c6f676f2e706e67" width=50px height=50px/> 
-<img align= "left" src="https://camo.githubusercontent.com/4dec2e708980ea770ab6068f903fc5971f12acc21c77307b6db3a47d92c5e1a8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e706d6a732f6e706d6a732d617232312e737667" width=50px height=50px/> 
-<img align= "left" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=50px height=50px/> 
+## 🏆 Achievement Showcase
 
-<br/>
-<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=goelRagga&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+</div>
 
+## 📈 Contribution Activity
 
-## My Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goelRagga&theme=radical)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goelRagga&bg_color=0d1117&color=ffffff&line=ff6b6b&point=ffffff&area=true&hide_border=true" />
+</div>
 
-## Git Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=goelRagga&theme=radical)
+## 🌐 Let's Connect & Collaborate!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/raghav-goel-b0494b177/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/raghav.goel.9212/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://github.com/goelRagga">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/raghavgoel_y.t.s/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:raghav@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+  <img src="https://github.com/goelRagga/goelRagga/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.32%
+React        4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   26.47%
+CSS          2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.18%
+HTML         1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.82%
+Other        0 hrs 15 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21%
+```
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" />
+</div>
+
+<h3 align="center">
+  Thanks for stopping by! Let's build something amazing together! 🚀
+</h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=goelRagga&style=for-the-badge&color=red" alt="Profile views" />
+</div>
