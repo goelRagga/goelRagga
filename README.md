@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=RAGHAV%20GOEL&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Front%20End%20Developer%20%7C%20Code%20Enthusiast&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=RAGHAV%20GOEL&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Code%20Architect&descAlignY=51&descAlign=50" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;I'm+Raghav+Goel!;Front+End+Developer;Learning%2B%2B+Everyday!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;I'm+Raghav+Goel!;Full+Stack+Developer;AI+%26+ML+Enthusiast;Learning%2B%2B+Everyday!" />
 </h1>
 
 <div align="center">
@@ -13,7 +13,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/💻-Frontend_Developer-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻-Full_Stack_Developer-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖-AI_Enthusiast-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎯-Passionate_Coder-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📚-Always_Learning-blue?style=for-the-badge" />
 </div>
@@ -34,15 +35,19 @@
 class Developer {
 private:
     std::string name = "Raghav Goel";
-    std::string role = "Frontend Developer";
+    std::string role = "Full Stack Developer";
     std::vector<std::string> languages = {
         "JavaScript", "Python", "C++"
+    };
+    std::vector<std::string> aiSkills = {
+        "LangChain", "OpenAI", "Gemini"
     };
     
 public:
     void displayInfo() {
         std::cout << "👨‍💻 " << name << std::endl;
         std::cout << "🚀 " << role << std::endl;
+        std::cout << "🤖 AI & ML Enthusiast" << std::endl;
         std::cout << "📍 India" << std::endl;
         std::cout << "💡 Learning++ Everyday!" << std::endl;
     }
@@ -53,11 +58,11 @@ public:
 <td width="50%">
 
 ### 🎯 Quick Facts
-- 🔭 Currently working on **React Projects**
-- 🌱 Learning **Advanced JavaScript & React**
-- 👯 Looking to collaborate on **Frontend Projects**
-- 💬 Ask me about **React, JavaScript, Frontend Development**
-- ⚡ Fun fact: **I debug with console.log() 😄**
+- 🔭 Currently working on **Full Stack & AI Projects**
+- 🌱 Learning **Advanced AI/ML & LangChain**
+- 👯 Looking to collaborate on **Full Stack & AI Projects**
+- 💬 Ask me about **React, Node.js, AI, Full Stack Development**
+- ⚡ Fun fact: **I debug with console.log() and AI assistance 😄**
 
 </td>
 </tr>
@@ -80,14 +85,23 @@ public:
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Tools & Utilities
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -152,11 +166,11 @@ public:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.32%
-React        4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   26.47%
-CSS          2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.18%
-HTML         1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.82%
-Other        0 hrs 15 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21%
+JavaScript   6 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   36.76%
+Python       4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   26.47%
+React        3 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   22.06%
+Node.js      1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.82%
+CSS          1 hr 0 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   05.88%
 ```
 <!--END_SECTION:waka-->
 
